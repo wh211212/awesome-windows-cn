@@ -6,47 +6,46 @@
 > Windows上最佳应用程序和工具列表.
 
 > *这个Awesome Repository受到了ichait的启发[Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
-> *Special thanks to [egeerardyn](https://github.com/egeerardyn).*
+> *感谢！ [Awesome-Windows](https://github.com/Awesome-Windows).*
 
 > *标有的项目 ![Open-Source Software][OSS Icon] 是开源软件。 标有的项目 ![Freeware][Freeware Icon] 是免费项目.*
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
-- [Applications](#applications)
-  - [Audio](#audio)
-  - [Chat Clients](#chat-clients)
-  - [Compression](#compression)
-  - [Customization](#customization)
-  - [Data Recovery](#data-recovery)
-  - [Developer Tools](#developer-tools)
-  - [Documents](#documents)
-  - [E-Book Utilities](#e-book-utilities)
-  - [Email](#email)
-  - [Games](#games)
-  - [Graphics](#graphics)
-  - [Online Storage](#online-storage)
-  - [Backup](#backup)
-  - [Productivity](#productivity)
-  - [Terminal](#terminal)
-  - [Text Editors](#text-editors)
+- [应用程序](#应用程序)
+  - [音频](#音频)
+  - [聊天软件](#聊天软件)
+  - [压缩](#压缩)
+  - [定制](#定制)
+  - [数据恢复](#数据恢复)
+  - [开发者工具](#开发者工具)
+  - [文档](#文档)
+  - [电子书公用事业](#电子书公用事业)
+  - [邮件](#邮件)
+  - [游戏](#游戏)
+  - [图像](#图像)
+  - [在线存储](#在线存储)
+  - [备份](#备份)
+  - [效率](#效率)
+  - [终端](#终端)
+  - [文本编辑器](#文本编辑器)
   - [IDEs](#ides)
   - [Utilities](#utilities)
-  - [Video](#video)
-- [Setup](#setup)
+  - [视频](#视频)
+- [设置](#设置)
     - [Windows 10](#windows-10-setup)
     - [Windows 8.1 setup](#windows-81-setup)
-- [Security](#security)
-- [Miscellaneous](#miscellaneous)
-- [Discussion Forums](#discussion-forums)
+- [安全](#security)
+- [其他](#miscellaneous)
+- [讨论论坛](#discussion-forums)
     - [Windows](#windows)
     - [IRC channels](#irc-channels)
     - [Reddit](#reddit)
-- [Contribute](#contribute)
+- [贡献](#贡献)
 
+## 应用程序
 
-## Applications
-
-### Audio
+### 音频
 
 - [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][Freeware Icon]
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
