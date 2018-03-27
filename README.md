@@ -3,12 +3,12 @@
 [![Join the chat at https://gitter.im/Awesome-Windows/Awesome](https://badges.gitter.im/Awesome-Windows/Awesome.svg)](https://gitter.im/Awesome-Windows/Awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
-> An awesome & curated list of best applications and tools for Windows.
+> Windows上最佳应用程序和工具列表.
 
-> *This Awesome Repository is highly inspired from ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
+> *这个Awesome Repository受到了ichait的启发[Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
 > *Special thanks to [egeerardyn](https://github.com/egeerardyn).*
 
-> *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
+> *标有的项目 ![Open-Source Software][OSS Icon] 是开源软件。 标有的项目 ![Freeware][Freeware Icon] 是免费项目.*
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
