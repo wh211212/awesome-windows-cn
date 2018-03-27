@@ -21,7 +21,7 @@
   - [数据恢复](#数据恢复)
   - [开发者工具](#开发者工具)
   - [文档](#文档)
-  - [电子书公用事业](#电子书公用事业)
+  - [电子书](#电子书)
   - [邮件](#邮件)
   - [游戏](#游戏)
   - [图像](#图像)
@@ -65,7 +65,7 @@
 - [Kodi](https://kodi.tv/) - Free and Open Source home theatre software. [![Open-Source Software][OSS Icon]](https://github.com/xbmc) ![Freeware][Freeware Icon]
 - [Resonic](https://resonic.at/) - Fast and free audio player.
 
-### Chat Clients
+### 聊天工具
 
 - [Hexchat](https://hexchat.github.io/) - IRC client based on XChat [![Open-Source Software][OSS Icon]](https://hexchat.github.io/) ![Freeware][Freeware Icon]
 - [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. ![Freeware][Freeware Icon]
@@ -76,7 +76,7 @@
 - [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
 - [Discord](https://discordapp.com) - Discord is a free voice and text chat client for gamers and non-gamers alike. You can use it from your browser and it's available on iOS, Android, Windows, Mac, and Linux. ![Freeware][Freeware Icon]
 
-### Compression
+### 压缩
 
 - [7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked. [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) ![Freeware][Freeware Icon]
 - [Bandizip](https://www.bandisoft.com/bandizip/) - A lightweight, fast and free All-In-One Zip Archiver. ![Freeware][Freeware Icon]
@@ -84,7 +84,7 @@
 - [Riot](http://luci.criosweb.ro/riot/) - Compress images either by file size or by many other image attributes. ![Freeware][Freeware Icon]
 - [WinRAR](http://www.rarlab.com/) -  A powerful archive manager. It can backup your data and reduce the size of email attachments, decompress RAR, ZIP and other files.
 
-### Customization
+### 定制
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. ![Freeware][Freeware Icon]
 - [Classic Shell](http://www.classicshell.net/) - Use Start Menu and Explorer like it's 2000.
@@ -95,7 +95,7 @@
 - [ZBar](http://www.zhornsoftware.co.uk/zbar/) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
 
 
-### Data Recovery
+### 数据恢复
 
 - [Data Rescue](https://www.prosofteng.com/datarescuepc3/) - Comprehensive and professional Hard drive recovery software that can recover your photos, videos, documents.
 - [Ontrach EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/) - Has filtering tools to help sort the large amount of data the software can recover.
@@ -104,7 +104,7 @@
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
 
-### Developer Tools
+### 开发者工具
 
 - [Addict](https://github.com/dthree/addict) - Drop-in REST API for Active Directory.
 - [DB Browser for SQLite](http://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][OSS Icon]](http://sqlitebrowser.org/)
@@ -144,7 +144,7 @@
 - [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment. ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
-### Documents
+### 文档
 
 - [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice is a complete office suite with a word processor, a spreadsheet application and a presentation program – all compatible with their counterparts in Microsoft Office. ![Freeware][Freeware Icon]
 - [LibreOffice](https://www.libreoffice.org/) - Open source office suite. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
@@ -155,13 +155,13 @@
 - [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. ![Freeware][Freeware Icon]
 - [WPS Office](https://www.wps.com/office-free) - The perfect free office software ![Freeware][Freeware Icon]
 
-### E-Book Utilities
+### 电子书
 
 - [Bookviser](http://apps.microsoft.com/windows/en-us/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f) - Awesome application for Windows 8 devices to read eBooks in a simple way. ![Freeware][Freeware Icon]
 - [Calibre](http://calibre-ebook.com/) - Powerful software for e-book management and conversion. [![Open-Source Software][OSS Icon]](http://calibre-ebook.com/get-involved) ![Freeware][Freeware Icon]
 - [kobo](https://www.kobo.com/desktop) - Incredibly ugly but powerful software for ebook management and conversion. ![Freeware][Freeware Icon]
 
-### Email
+### 邮件
 
 - [MailBird](https://www.mailbird.com/) - IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design. ![Freeware][Freeware Icon]
@@ -169,7 +169,7 @@
 - [Nylas Mail](https://www.nylas.com/download/) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1) ![Freeware][Freeware Icon]
 - [Postbox](https://postbox-inc.com/) - The Power Email App
 
-### Games
+### 游戏
 
 - [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][OSS Icon]](https://github.com/0ad/0ad) ![Freeware][Freeware Icon]
 - [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][Freeware Icon]
@@ -182,7 +182,7 @@
 - [Origin](https://www.origin.com/en-in/store/) - Like Steam, but for EA.
 - [Itch.io](https://itch.io/app/) - Install, update and play indie games. [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) ![Freeware][Freeware Icon]
 
-### Graphics
+### 图像
 
 - [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
 - [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][OSS Icon]](http://www.gimp.org/source/) ![Freeware][Freeware Icon]
@@ -190,7 +190,7 @@
 - [Inkscape](https://inkscape.org/en/) - Free vector-based graphic design software.
 - [Krita](https://krita.org/) - Free drawing software with a bunch of cool features.
 
-### Text Editors
+### 文本编辑器
 
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
 - [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
@@ -217,7 +217,7 @@
 - [Visual Studio](https://www.visualstudio.com/vs/) - Microsofts official IDE. Supports a multitude of languages via plugins.
 - [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem.
 
-### Online Storage
+### 在线存储
 
 - [Dropbox](https://www.dropbox.com/install) -Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
 - [Google Drive](https://www.google.com/drive/download/) - Cloud storage solution deeply integrated in the Google ecosystem.
@@ -226,13 +226,13 @@
 - [Mozy](https://mozy.com/product/download)
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
 
-### Backup
+### 备份
 
 - [Arq](https://www.arqbackup.com/) - Backs up your files to your own cloud account (Amazon Cloud Drive, AWS, Dropbox, Google Drive, Google Cloud Storage, OneDrive, and SFTP).
 - [Bvckup 2](https://bvckup2.com/) - Light, versatile data replication software.
 - [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux.[![Open-Source Software][OSS Icon]](https://github.com/duplicati/duplicati) ![Freeware][Freeware Icon]
 
-### Productivity
+### 效率
 
 - [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. [![Open-Source Software][OSS Icon]](https://autohotkey.com/) ![Freeware][Freeware Icon]
 - [Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
@@ -256,7 +256,7 @@
 - [Keypirinha](http://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to *Launchy* and a cousin of *Alfred*. ![Freeware][Freeware Icon]
 
 
-### Terminal
+### 终端
 
 - [Babun](http://babun.github.io/) - Alternative Windows shell based on Cygwin.
 - [Cmder](https://github.com/cmderdev/cmder) - Console emulator package.
@@ -305,7 +305,7 @@
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
 
-### Video
+### 视频
 
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 - [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
@@ -316,7 +316,7 @@
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that can save different preferences for any single video. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][Freeware Icon]
 - [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS)
 
-## Setup
+## 设置
 
 ### Windows 10 Setup
 
@@ -328,7 +328,7 @@
 
 * http://windows.microsoft.com/en-IN/windows-8/clean-install
 
-## Security
+## 安全
 
 - [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) - A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file. ![Freeware][Freeware Icon]
 - [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker. ![Freeware][Freeware Icon]
@@ -348,12 +348,12 @@
 - [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - Make Windows 10 more private and safe. ![Freeware][Freeware Icon]
 - [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment. ![Freeware][Freeware Icon]
 
-## Miscellaneous
+## 其他
 
 * [Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
 * [list of Shortcut keys](http://imgur.com/a/TIXvm)
 
-## Discussion Forums
+## 讨论论坛
 
 #### Windows
 
@@ -376,14 +376,14 @@
 * [/r/sysadmin](https://www.reddit.com/r/sysadmin)
 * [/r/microsoftsoftwareswap](https://www.reddit.com/r/microsoftsoftwareswap)
 
-## Contribute
+## 贡献
 
-Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
+贡献是最受欢迎的，请参照 [contribution guidelines](Contributing.md).
 
-**[⬆ back to top](#applications)**
+**[⬆ back to top](#应用程序)**
 
 
-## License
+## 开软许可
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
